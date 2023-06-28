@@ -19,5 +19,5 @@ spring:
 #    prefer-ip-address: true
 okta:
   oauth2:
-    issuer: https://dev-45924573.okta.com/oauth2/default
+    issuer: https://*****/oauth2/default
     audience: api://default
